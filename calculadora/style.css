@@ -11,7 +11,9 @@ body{
     justify-content: center;
     align-itens: center;
     /* min-height: 100vh; */
-    background-image: url("./imagens/pawel-czerwinski-UmzGrVna1P0-unsplash.jpg");
+    background-image: url("./imagens/lucas-benjamin-wQLAGv4_OYs-unsplash.jpg");
+    max-width:100%;
+    object-fit: scale-down;
 }
 .container{
     
